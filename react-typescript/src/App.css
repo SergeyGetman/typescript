@@ -1,0 +1,13 @@
+ul {
+  border: 3px solid rgb(43, 69, 236);
+  background: rgb(223, 169, 169);
+}
+
+li {
+  color: rgb(243, 243, 243);
+  background: rgb(208, 176, 176);
+  background-color: rgb(14, 42, 181);
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
